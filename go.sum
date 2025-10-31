@@ -1,3 +1,5 @@
+github.com/alexlast/bunzap v0.1.0 h1:GfFAuLfGGmyPAKVpEtNMzTdi4qCNi+1MzhfII7wpao8=
+github.com/alexlast/bunzap v0.1.0/go.mod h1:j73jUB7k/V2Sd+P0lKGmwG5pFA0z7UiuqgGxzgwCvW8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-core-fx/logger v0.0.1 h1:e3iJPEfV09fAZnVdROhcpDEbw7DHaNfY/OWCLX0wipA=
